@@ -3,9 +3,8 @@ A set of Python classes used to manipulate ADIF records.
 Developed for personal use by the author, but available to anyone under the license terms below.
 
 ADIF = Amateur Data Interchange Format
-Reference: http://www.adif.org
 
-Developed for personal use by the author, but available to anyone under the license terms below.
+Reference: http://www.adif.org
 
 ## adif.py
 The `adif` class provides an easy way to parse and manipulate ADIF QSO records.
